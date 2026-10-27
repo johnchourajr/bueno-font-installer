@@ -8,9 +8,9 @@ importers:
 
   .:
     dependencies:
-      '@muybuen/type':
-        specifier: ^1.1.7
-        version: 1.1.7
+      '@bueno-dev/type':
+        specifier: npm:@muybuen/type@^1.1.7
+        version: '@muybuen/type@1.1.7'
       '@tailwindcss/container-queries':
         specifier: ^0.1.1
         version: 0.1.1(tailwindcss@3.4.18)

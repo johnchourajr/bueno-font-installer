@@ -1,4 +1,4 @@
-import { TypeDefinition } from "@muybuen/type";
+import { TypeDefinition } from "@bueno-dev/type";
 
 export const customHeadlines: Record<
   "display-xxl" | "display-xl",
