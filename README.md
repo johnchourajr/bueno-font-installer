@@ -1,7 +1,7 @@
 # Buen Font Installer
 
-[![Latest Release](https://img.shields.io/github/v/release/johnchourajr/buen-font-installer?label=version)](https://github.com/johnchourajr/buen-font-installer/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/johnchourajr/buen-font-installer/total)](https://github.com/johnchourajr/buen-font-installer/releases)
+[![Latest Release](https://img.shields.io/github/v/release/johnchourajr/bueno-font-installer?label=version)](https://github.com/johnchourajr/bueno-font-installer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/johnchourajr/bueno-font-installer/total)](https://github.com/johnchourajr/bueno-font-installer/releases)
 [![macOS](https://img.shields.io/badge/macOS-13.0+-blue)](https://www.apple.com/macos/)
 
 ![looper 4](https://github.com/user-attachments/assets/b3bc9d6a-bfa3-4af0-9fba-b087b511a093)
@@ -19,7 +19,7 @@ Built on the my own shell script [Font File Separatornator](https://github.com/j
 
 ### 1. Download the app
 
-**[Download Latest Release](https://github.com/johnchourajr/buen-font-installer/releases/latest)**
+**[Download Latest Release](https://github.com/johnchourajr/bueno-font-installer/releases/latest)**
 
 ### 2. Install it
 
@@ -90,7 +90,7 @@ macOS 14.0 or later
 
 ## Support
 
-Found a bug or have a feature request? [Open an issue](https://github.com/johnchourajr/buen-font-installer/issues) on GitHub.
+Found a bug or have a feature request? [Open an issue](https://github.com/johnchourajr/bueno-font-installer/issues) on GitHub.
 
 ---
 

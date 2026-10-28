@@ -29,7 +29,7 @@ export function SliceWhy() {
           );
         })}
         <Link
-          href="https://github.com/johnchourajr/buen-font-installer/releases/latest"
+          href="https://github.com/johnchourajr/bueno-font-installer/releases/latest"
           className="headline-display-xl text-start indent-2em underline decoration-[0.025em] underline-offset-[0.1em] decoration-foreground hover:decoration-white"
           target="_blank"
           rel="noopener noreferrer"

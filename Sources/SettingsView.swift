@@ -97,7 +97,7 @@ struct SettingsView: View {
             Spacer()
 
             Button("GitHub") {
-              if let url = URL(string: "https://github.com/johnchourajr/buen-fonts-app") {
+              if let url = URL(string: "https://github.com/johnchourajr/bueno-font-installer") {
                 NSWorkspace.shared.open(url)
               }
             }

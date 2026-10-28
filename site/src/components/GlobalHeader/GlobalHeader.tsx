@@ -72,7 +72,7 @@ export function GlobalHeader() {
               <div className="flex items-center gap-4">
                 <Link
                   href={
-                    "https://github.com/johnchourajr/buen-font-installer/releases/latest/"
+                    "https://github.com/johnchourajr/bueno-font-installer/releases/latest/"
                   }
                   target="_blank"
                   rel="noopener noreferrer"
@@ -82,7 +82,7 @@ export function GlobalHeader() {
                 </Link>
 
                 <Link
-                  href={"https://github.com/johnchourajr/buen-font-installer"}
+                  href={"https://github.com/johnchourajr/bueno-font-installer"}
                   className="uppercase text-body"
                   target="_blank"
                   rel="noopener noreferrer"
