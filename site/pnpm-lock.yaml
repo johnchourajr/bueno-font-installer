@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@bueno-dev/type':
-        specifier: npm:@muybuen/type@^1.1.7
-        version: '@muybuen/type@1.1.7'
+        specifier: ^1.1.9
+        version: 1.1.9
       '@tailwindcss/container-queries':
         specifier: ^0.1.1
         version: 0.1.1(tailwindcss@3.4.18)
@@ -78,6 +78,10 @@ packages:
   '@alloc/quick-lru@5.2.0':
     resolution: {integrity: sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==}
     engines: {node: '>=10'}
+
+  '@bueno-dev/type@1.1.9':
+    resolution: {integrity: sha512-aLyKsG0kZaqkK7xhXilztLXbFZ5i60ir8I1+Q70Vng7hQhOJPvkAARPJi879IY+mGbpxxL8xTXVJJvSC5Iji4A==}
+    engines: {node: '>=18.0.0'}
 
   '@emnapi/core@1.5.0':
     resolution: {integrity: sha512-sbP8GzB1WDzacS8fgNPpHlp6C9VZe+SJP3F90W9rLemaQj2PzIuTEl1qDOYQf58YIpyjViI24y9aPWCjEzY2cg==}
@@ -261,10 +265,6 @@ packages:
 
   '@jridgewell/trace-mapping@0.3.31':
     resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
-
-  '@muybuen/type@1.1.7':
-    resolution: {integrity: sha512-8YyJNFPZMalJvuH7apySxRqaf2wfBILqIeGY1RWNbIOFYOOR/9w+TvgYlS1E6lWjyTlyEHOllENEFxbYqcaVJw==}
-    engines: {node: '>=14.0.0'}
 
   '@napi-rs/wasm-runtime@0.2.12':
     resolution: {integrity: sha512-ZVWUcfwY4E/yPitQJl481FjFo3K22D6qF0DuFH6Y/nbnE11GY5uguDxZMGXPQ8WQ0128MXQD7TnfHyK4oWoIJQ==}
@@ -2096,6 +2096,8 @@ snapshots:
 
   '@alloc/quick-lru@5.2.0': {}
 
+  '@bueno-dev/type@1.1.9': {}
+
   '@emnapi/core@1.5.0':
     dependencies:
       '@emnapi/wasi-threads': 1.1.0
@@ -2258,8 +2260,6 @@ snapshots:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
-
-  '@muybuen/type@1.1.7': {}
 
   '@napi-rs/wasm-runtime@0.2.12':
     dependencies:
